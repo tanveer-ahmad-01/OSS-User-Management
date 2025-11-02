@@ -359,7 +359,7 @@ This project is licensed under the MIT License.
 
 ## Support
 
-For support, email support@usermanagement.com or create an issue in the repository.
+For support, email stanveer.ahmad002@gmail.com or create an issue in the repository.
 
 ## Acknowledgments
 
